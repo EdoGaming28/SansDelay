@@ -1,0 +1,13 @@
+---
+name: Sekolah Delay
+version: 0.0.2
+main: EdoGaming\Sekolah\Main
+api: [3.0.0]
+load: POSTWORLD
+
+author: EdoGaming
+
+commands:
+  sans:
+    description: "Kembali Ke Sekolah"
+...
