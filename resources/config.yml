@@ -1,0 +1,5 @@
+# Delay teleport to Sekolah in seconds
+delay: 3
+
+# Message when the player is teleported successfully
+msg_tp_success: "§f[§6Sans SMP§f] §fKamu sudah Berada Di Sekolah§6!"
