@@ -1,4 +1,4 @@
---- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/EdoGaming28/SekolahDelay
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/EdoGaming28/SansDelay
 build-by-default: true
 branches:
 - main
