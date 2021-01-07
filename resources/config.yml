@@ -3,3 +3,5 @@ delay: 3
 
 # Message when the player is teleported successfully
 msg_tp_success: "§f[§6Sans SMP§f] §fKamu sudah Berada Di Sekolah§6!"
+msg_being_teleported: ""
+msg_too_fast: ""
