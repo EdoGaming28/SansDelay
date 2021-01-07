@@ -1,6 +1,6 @@
 ---
 name: Sans Delay
-version: 0.0.2
+version: 3.0
 main: EdoGaming\Sekolah\Main
 api: [3.0.0]
 load: POSTWORLD
